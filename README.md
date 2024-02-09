@@ -16,6 +16,12 @@
 
 # Tecnologias com quais tenho conhecimento 📲
 
-[programação] [sistema] [algoritmo] [arquiteturaderedes]
-[desenvolvimentoweb] [HTML] [python] [C++]
+[programação] 
+[sistema] 
+[algoritmo] 
+[arquiteturaderedes]
+[desenvolvimentoweb] 
+[HTML] 
+[python]
+[C++]
 
